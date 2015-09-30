@@ -8,6 +8,9 @@
 	<!-- Folha de estilo para extração dos dados do Currículo Lattes e 
 		conversão em registro para importação no Repositório Institucional UNESP 
 	
+	Elaborada pela Equipe do Repositório Institucional UNESP
+    	repositoriounesp@reitoria.unesp.br
+    	
 	Última atualização: 2015-03-31
 	-->
 	
