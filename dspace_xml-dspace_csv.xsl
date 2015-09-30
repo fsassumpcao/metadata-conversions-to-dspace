@@ -7,7 +7,8 @@
     
     <!--
     Folha de estilo XSLT 2.0 utilizada para a conversão de arquivos Dublin Core (XML DSpace) em arquivos CSV para importação no DSpace 
-    Elaborada por Fabrício Silva Assumpção (fabricio@reitoria.unesp.br)
+    Elaborada pela Equipe do Repositório Institucional UNESP
+    repositoriounesp@reitoria.unesp.br
     Última atualização: 2015-03-09
     
     Observações:
