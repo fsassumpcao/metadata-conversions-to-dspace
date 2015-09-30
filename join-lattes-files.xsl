@@ -2,7 +2,10 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 	xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
-	<!-- Folha de estilo para reunir os arquivos XML da SciELO -->
+	<!-- Folha de estilo para reunir os arquivos XML da SciELO
+	Elaborada pela Equipe do Repositório Institucional UNESP
+    	repositoriounesp@reitoria.unesp.br -->
+    	
 	<!-- Última atualização: 2015-03-31 -->
 
 	<xsl:template match="/">
